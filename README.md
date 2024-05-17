@@ -1,2 +1,2 @@
 # shivam-demo
-This is our first repository.
+This is my first git repository.
